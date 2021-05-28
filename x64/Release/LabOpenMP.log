@@ -1,0 +1,10 @@
+﻿  OpenMPMST.cpp
+C:\Users\VasMax10\source\repos\LabOpenMP\OpenMPMST.cpp(171,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VasMax10\source\repos\LabOpenMP\OpenMPMST.cpp(179,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\VasMax10\source\repos\LabOpenMP\OpenMPMST.cpp(180,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  4 of 12 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LabOpenMP.vcxproj -> C:\Users\VasMax10\source\repos\Lab01_Serial\x64\Release\LabOpenMP.exe
